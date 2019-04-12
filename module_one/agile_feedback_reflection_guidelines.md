@@ -3,16 +3,16 @@ In interviews, you'll be asked about how you approach working in projects, and b
 
 With that in mind, please answer the following questions in your own gist about your group project:
 
-1. What have you learned about the use of agile vs. waterfall in software projects? 
+1. What have you learned about the use of agile vs. waterfall in software projects? I learned that agile is oriented around sprints, feedback from the user and refactoring with short cycles and that communication is super important as teams tend to be cross functional it. It is harder to gauge total est of cost and the major reason of failure is a team dymncamic as opposed to techincal inaptatidude. Waterfall tends to pay the people at the top more money with longer product cycles and has a benifit when testing is infesible or dangerous and it is is easier to stagger teams. Each phase tends to take months or years with loops since there is no chance to listen to code or user feedback till being complete. 
 
-2. How did you and your group approach project management in this project (what tools did you use, how did you hold each other accountable, etc.)?
+2. How did you and your group approach project management in this project (what tools did you use, how did you hold each other accountable, etc.)? I tried to establish standards of communciation, code implamentation, knowledge of scheudeles and knowing personal goals as well as team goals. I also tried to use sprints to focus on certain aspects of a project then refactor and reaim the group towards a common goal as well as personal ones. I started a trello board and offered to work with anyyone who wasnt confortable.  Other than Trello nothing was answered and often dismissed. I brought it up at a certain point after talking with the instrutors on how to best approach it with specifics, constructive actionable feed back and I in turn was marginlized, dismissed and then told I wasnt meeting "someones" exspectations of me on functionablity.  I took alot from the project but emotionally and mentally I am drained. 
 
-3. What role did you take on in the project? 
+3. What role did you take on in the project? I def tried to connect our team together and did have the occasion to work one on one with one of my teams a couple of times. I also am the only one who understands and can replicate the JSCON aspect of the project as i spent days working alone or with other class mates on this aspect. Unfortuanlly my commits with this didnt get merged to the master by my team mates so whatever. 
 
-4. What changes would you make to your approach in future team projects?
+4. What changes would you make to your approach in future team projects? Thats a tuff one because I really reached and tried some methods that i got from turing. They didnt work in my team but I am glad i tried and will work on them in the future. 
 
-5. How does retro function in a team project?
+5. How does retro function in a team project? Well we agreed to have them and as i was informed by my team mates they didnt have anything to share so they didnt feel the need to have them. I even addressed this concern to them and the next day they made it a point to go get ice cream -_-
 
-6. In your team retro, how did you engage in the feedback process? What principles of feedback did you use in these conversations?
+6. In your team retro, how did you engage in the feedback process? What principles of feedback did you use in these conversations? see above. 
 
-7. How would you describe your ability to communicate feedback? How has this experience affected your communication skills? How do you want to improve in your ability to communicate feedback?
+7. How would you describe your ability to communicate feedback? How has this experience affected your communication skills? How do you want to improve in your ability to communicate feedback? I didnt meet force with force , stoop to petty dismisal or tryng to exhert power by freezing someone out or ignoring thier experiances while placing my exspecation on anyone. I really learned that everyones going to get the experiance they choose out of Turing and after a certain point after making a real effort on my part that the ball is in their court. I tried Turings stradagies of communication and it was honestly hard ,didnt work but I will work on that moving forward and im glad for the experiance. 
